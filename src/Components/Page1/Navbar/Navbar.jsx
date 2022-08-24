@@ -44,7 +44,7 @@ const Navbar = () => {
             </div>
             </NavLink>
 
-            <NavLink to="/summary" id="ressummary">
+            <NavLink to="/summary-Month" id="ressummary">
             <div className="summary"> 
                 <img id="summaryIcon" src={summary} alt="summary icon" />
                 {/* link summary page */}
