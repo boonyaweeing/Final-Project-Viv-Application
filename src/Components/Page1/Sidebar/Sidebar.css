@@ -2,12 +2,12 @@
     display: flex;
     flex-direction: column;
     width: 500px;
-    height: 870px;
+    height: 1000px;
     background: #fd9d9dcc;
     border-radius: 25px;
     margin: 70px 20px 70px 100px;
 }
 
-.hidden {
+/* .hidden {
     display: none;
-}
+} */
